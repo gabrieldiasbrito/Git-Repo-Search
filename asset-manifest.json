@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/field-control/static/css/main.661e3df6.css",
-    "main.js": "/field-control/static/js/main.c1255e15.js",
-    "static/js/787.77451653.chunk.js": "/field-control/static/js/787.77451653.chunk.js",
-    "static/media/loading.gif": "/field-control/static/media/loading.d80d735c361417cc3d2f.gif",
-    "index.html": "/field-control/index.html",
-    "main.661e3df6.css.map": "/field-control/static/css/main.661e3df6.css.map",
-    "main.c1255e15.js.map": "/field-control/static/js/main.c1255e15.js.map",
-    "787.77451653.chunk.js.map": "/field-control/static/js/787.77451653.chunk.js.map"
+    "main.css": "/Git-Repo-Search/static/css/main.661e3df6.css",
+    "main.js": "/Git-Repo-Search/static/js/main.9299c7da.js",
+    "static/js/787.77451653.chunk.js": "/Git-Repo-Search/static/js/787.77451653.chunk.js",
+    "static/media/loading.gif": "/Git-Repo-Search/static/media/loading.d80d735c361417cc3d2f.gif",
+    "index.html": "/Git-Repo-Search/index.html",
+    "main.661e3df6.css.map": "/Git-Repo-Search/static/css/main.661e3df6.css.map",
+    "main.9299c7da.js.map": "/Git-Repo-Search/static/js/main.9299c7da.js.map",
+    "787.77451653.chunk.js.map": "/Git-Repo-Search/static/js/787.77451653.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.661e3df6.css",
-    "static/js/main.c1255e15.js"
+    "static/js/main.9299c7da.js"
   ]
 }
