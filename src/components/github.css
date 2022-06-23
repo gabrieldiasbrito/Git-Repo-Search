@@ -1,0 +1,130 @@
+nav{
+    display: flex;
+    background: #202020;
+    position: fixed;
+    width: 100%;
+    justify-content: space-between;
+    text-align: center;
+    padding: 15px 30px;
+}
+
+.icon{
+    font-size: 2rem;
+}
+
+nav form{
+    
+    width: 100%;
+}
+
+.searchbox{
+    display: flex;
+    margin: 0 auto;
+    height: 35px;
+    line-height: 35px;
+}
+
+.searchbox input{
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    height: 100%;
+    padding: 0 10px;
+    font-size: 1rem;
+    color: black;
+    width: 25rem;
+}
+
+.searchbox span{
+    font-size: 1.7rem;
+    background-color: whitesmoke;
+    color: #111;
+    padding: 0.3rem 1rem;
+    border-left: solid 1px;
+    position: relative;
+    cursor: pointer;
+}
+
+.repositories{
+    margin: 0 auto;
+    list-style: none;
+    padding: 5rem 10rem;
+    max-width: 1800px;
+}
+
+.card{
+    padding: 1rem;
+    border-bottom: solid 1px #202020;
+}
+
+.link{
+    text-decoration: none;
+    color: #247bfd;
+}
+
+.link:hover{
+    text-decoration: underline;
+}
+
+.desc{
+    padding: 5px;
+}
+
+#book{
+    float: left;
+    padding: 5px;
+    font-size: 18px;
+}
+
+.info li{
+    display: inline;
+    padding: 10px;
+    font-size: 0.7rem;
+    color: gray;
+}
+
+.sm_icon{
+    font-size: 14px;
+    color: gray;
+    padding: 0 3px;
+}
+
+.alert{
+    margin: auto;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#lang{
+    background-color: #247bfd;
+    color: white;
+    padding: 4px 15px;
+    border-radius: 50px;
+}
+
+@media screen and (max-width: 800px){
+    nav{
+        display: block;
+        padding: 0;
+    }
+
+    .icon{
+        display: inline-block;
+        padding: 1rem 2rem;
+    }
+
+    .searchbox{
+        width: 100%;
+        display: inline-flex;
+        justify-content: center;
+        margin-bottom: 1rem;
+    }
+
+    .searchbox input{
+        width: 80%
+    }
+
+    .repositories{
+        padding: 8rem 0;
+    }
+}
