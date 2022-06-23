@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.661e3df6.css",
-    "main.js": "/static/js/main.f84fd545.js",
-    "static/js/787.77451653.chunk.js": "/static/js/787.77451653.chunk.js",
-    "static/media/loading.gif": "/static/media/loading.d80d735c361417cc3d2f.gif",
-    "index.html": "/index.html",
-    "main.661e3df6.css.map": "/static/css/main.661e3df6.css.map",
-    "main.f84fd545.js.map": "/static/js/main.f84fd545.js.map",
-    "787.77451653.chunk.js.map": "/static/js/787.77451653.chunk.js.map"
+    "main.css": "/field-control/static/css/main.661e3df6.css",
+    "main.js": "/field-control/static/js/main.c1255e15.js",
+    "static/js/787.77451653.chunk.js": "/field-control/static/js/787.77451653.chunk.js",
+    "static/media/loading.gif": "/field-control/static/media/loading.d80d735c361417cc3d2f.gif",
+    "index.html": "/field-control/index.html",
+    "main.661e3df6.css.map": "/field-control/static/css/main.661e3df6.css.map",
+    "main.c1255e15.js.map": "/field-control/static/js/main.c1255e15.js.map",
+    "787.77451653.chunk.js.map": "/field-control/static/js/787.77451653.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.661e3df6.css",
-    "static/js/main.f84fd545.js"
+    "static/js/main.c1255e15.js"
   ]
 }
